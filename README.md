@@ -11,7 +11,6 @@ The project has three phases:
 
 About dataset and work 
 
-
     I had taken two related datastes Biodiversity Dataet and Country mapping Dataset.Here i had visualize the worlds resources density then there are protected or 
     non protected.
 

@@ -9,9 +9,11 @@ The project has three phases:
 
  3. A very exciting project related to anticipating the impact of climate change on various species. This will inform you the world protected and non protected             resources of the world and how important that we have to protect the natural resources.
 
-About dataset and work                                   
-        I had taken two related datastes Biodiversity Dataet and Country mapping Dataset.Here i had visualize the worlds resources density then there are protected or 
-        non protected.
+About dataset and work 
+
+
+    I had taken two related datastes Biodiversity Dataet and Country mapping Dataset.Here i had visualize the worlds resources density then there are protected or 
+    non protected.
 
 
 
